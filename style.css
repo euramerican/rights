@@ -68,7 +68,7 @@ header ul li a
 
 .banner
 {
-	position: relative;
+	position: absolute;
 	width: 100%;
 	height: 100vh;
 	background: url(wn-def.png);
