@@ -74,3 +74,34 @@ header ul li a
 	background: url(wn-def.png);
 	background-size: cover;
 }
+
+hr.thin {
+    border-top: 1px solid #FFFFFF;
+}
+
+hr.thick {
+    border-top: 5px solid #FFFFFF;
+}
+
+.article {
+	margin:  10px;
+	padding: 10px;
+	color: #FFFFFF;
+	font-size: 22px;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	text-align: justify;
+	float: center;
+	width: 50%;
+	line-height: 200%;
+}
+
+p {
+    line-height: 2;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+h2 {
+	line-height: 200%;
+}
